@@ -1,4 +1,3 @@
-layout_spectrum: 0.7452570609748363
 typography_spectrum: 0.1589292788412422
 color:
   brandStrength: 0.537840262753889
@@ -11,8 +10,14 @@ color:
     - '#FFFFFF'
     - '#FFC0A9'
     - '#FF8598'
-name: Baked with love
+layout_spectrum: 0.7452570609748363
 author:
   name: Natan Lustgarten
   email: natan@asylummarketing.com
   url: www.asylummarketing.com
+name: Baked with love
+navigation:
+  - id: 'http://aboutus.com'
+    url: 'http://aboutus.com'
+    name: About us
+    type: external
